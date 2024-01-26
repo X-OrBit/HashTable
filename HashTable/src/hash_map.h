@@ -1,6 +1,6 @@
 #pragma once
 
-#include <vector>
+#include "bits/stdc++.h"
 #include <algorithm>
 #include <memory>
 
